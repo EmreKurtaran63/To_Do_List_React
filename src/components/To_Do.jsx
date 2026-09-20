@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { MdEditSquare } from "react-icons/md";
 import { MdOutlineRemoveCircle } from "react-icons/md";
-import '../Css/To_Do_List.css';
+import '../css/To_Do_List.css'
 import { FaCheckSquare } from "react-icons/fa";
 
 function To_Do({ todo, toDoRemove, UpdateToDo }) {
