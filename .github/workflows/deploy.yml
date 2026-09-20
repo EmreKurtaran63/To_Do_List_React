@@ -34,7 +34,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           # Hostinger üzerindeki hedef alt klasörünüz:
-          server-dir: /htdocs/Websitelerim/React_Projelerim/Currency/
+          server-dir: /htdocs/Websitelerim/React_Projelerim/To_Do_List(React)/
           # Vite kullanıyorsanız derleme çıktısı './dist/' klasörüne oluşur.
           # (Eğer Create React App kullanıyorsanız burayı './build/' yapın)
           local-dir: ./dist/
